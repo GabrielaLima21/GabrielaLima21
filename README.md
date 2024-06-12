@@ -5,7 +5,6 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=45% height=195px align="center" src="https://github-readme-streak-stats.herokuapp.com?user=GabrielaLima21&theme=radical&mode=weekly" />
-<img width=45% height=195px align="center"  src="https://devin-readme-stats-batistadevins-projects.vercel.app/api?username=GabrielaLima21&show_icons=true&theme=radical&count_private=true" />
  </div>
  
  &nbsp;
